@@ -7,7 +7,7 @@ Member of the Laboratory of Biotechnology and Valorization of Bio-Geo-Resources 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2770--1013-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2770-1013)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.fr/citations?user=NOui2AMAAAAJ)
 [![Medium](https://img.shields.io/badge/Medium-@alifchebbi-000000?logo=medium&logoColor=white)](https://medium.com/@alifchebbi)
-[![Wikipedia](https://img.shields.io/badge/Wikipedia-User:Alifchebbi-000000?logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/User:Alifchebbi)
+
 
 > *Every microbiome holds a story. Let's read it together.*
 
