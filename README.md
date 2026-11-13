@@ -1,6 +1,6 @@
 # Hi, I'm Alif Chebbi 👋
 
-**Microbiologist · Metagenomics · Bioinformatics · One Health**
+**Microbiologist · Metagenomics · Bioinformatics **
 Assistant Professor of Microbiology at the Higher Institute of Biotechnology of Sidi Thabet (ISBST), University of Manouba, Tunisia
 Member of the Laboratory of Biotechnology and Valorization of Bio-Geo-Resources (LBVBGR, LR11ES31), Biotechpole of Sidi Thabet
 
