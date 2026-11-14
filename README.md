@@ -15,6 +15,8 @@ Member of the Laboratory of Biotechnology and Valorization of Bio-Geo-Resources 
 
 ## 📂 Featured repositories
 
+I have recently started sharing my teaching and research material here. My aim is to make analyses reproducible, to give students and colleagues resources they can reuse in their own work, and to encourage open data sharing and the exchange of ideas. More repositories will follow.
+
 | Repository | What it is |
 |---|---|
 | [PRC-lung-microbiome-training](https://github.com/alifchebbi/PRC-lung-microbiome-training) | Reproducible 16S rRNA analysis of the lung cancer microbiome in R - training at ISBST-UMA, November 2026 |
