@@ -19,7 +19,7 @@ I have recently started sharing my teaching and research material here. My aim i
 
 | Repository | What it is |
 |---|---|
-| [PRC-lung-microbiome-training](https://github.com/alifchebbi/PRC-lung-microbiome-training) | Reproducible 16S rRNA analysis of the lung cancer microbiome in R - training at ISBST-UMA, November 2026 |
+| [PRC-lung-microbiome-training](https://github.com/alifchebbi/PRC-lung-microbiome-training) | Reproducible 16S rRNA analysis of the lung cancer microbiome in R - training at ISBST-UMA, November 2026 (Day 1) |
 | [sousse-2026-heritage-microbiome](https://github.com/alifchebbi/sousse-2026-heritage-microbiome) | Slides of my talk on climate change and the microbial communities colonising heritage surfaces - Sousse, November 2026 |
 | [TP-16S-rRNA](https://github.com/alifchebbi/TP-16S-rRNA) | Practical course material on 16S rRNA amplicon analysis |
 
