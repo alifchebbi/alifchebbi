@@ -9,7 +9,7 @@ Member of the Laboratory of Biotechnology and Valorization of Bio-Geo-Resources 
 [![Medium](https://img.shields.io/badge/Medium-@alifchebbi-000000?logo=medium&logoColor=white)](https://medium.com/@alifchebbi)
 
 
-> *Every microbiome holds a story. Let's read it together.*
+> *I'm not a bioinformatician, but I know enough bioinformatics to make my microbiological data talk!*
 
 ---
 
